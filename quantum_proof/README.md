@@ -1,6 +1,6 @@
 
 ### The 3 day lockdown, oops hackathon:
-Since quantum computing is awesome, magical and super scary at the same time, we tried to build a quantum secure variation of a blockchain for a national hackathon called M#. We made it to the semi finals, from among 300 teams but unfortunately got rejected because we were massively sleep-deprived and completely incoherent during our presentation.
+Since quantum computing is awesome, magical and super scary at the same time, we tried to build a quantum secure variation of a blockchain for a national hackathon called M#. We made it to the semi finals, from among 300 teams but unfortunately got rejected because we were massively sleep-deprived and completely incoherent during our presentation. Nevertheless, we had a lot of fun, realized that there was a lot of exciting fun stuff to learn and made lots of friends! So yay, to the unicorn ending!
 
 ### Note to self: 
 Start pulling 2 consecutive all-nighters and then giving a Ted-Talk on friggin day 3. 
