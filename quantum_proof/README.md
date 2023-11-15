@@ -6,7 +6,9 @@ Since quantum computing is awesome, magical and super scary at the same time, we
 Start pulling 2 consecutive all-nighters and then giving a Ted-Talk on friggin day 3. 
 
 ### About:
-This repo is in a .rar format because my laptop cannot handle the upload of the python-env that we had created. It is a variation of another project in this repository, except that it hashes and verifies in a way that is probably quantum-proof. I say 'probably', because I cannot afford to be a pompous idiot, when speaking about supposedly mystical unhackable systems...
+This repo is in a .zip format because my laptop cannot handle the upload of the python-env that we had created. It is a variation of another project in this repository, except that it hashes and verifies in a way that is probably quantum-proof. I say 'probably', because I cannot afford to be a pompous idiot, when speaking about supposedly mystical unhackable systems...
+Also, because of it's allegedly quantum-proof ways, it has been introduced to the world as QCoin!
+
 Before I go down another rabbit-hole, here is how we tried to made it quantum-secure:
 1. Integrating quantum random number generation along with the data being hashed to get the required nonce.
 1. Using BB84 to distribute the public key to ensure that tampering did not take place.
