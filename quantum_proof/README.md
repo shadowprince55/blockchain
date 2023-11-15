@@ -7,7 +7,9 @@ Start pulling 2 consecutive all-nighters and then giving a Ted-Talk on friggin d
 
 ### About:
 This repo is in a .zip format because my laptop cannot handle the upload of the python-env that we had created. It is a variation of another project in this repository, except that it hashes and verifies in a way that is probably quantum-proof. I say 'probably', because I cannot afford to be a pompous idiot, when speaking about supposedly mystical unhackable systems...
-Also, because of it's allegedly quantum-proof ways, it has been introduced to the world as QCoin!
+
+
+Also, because of it's allegedly quantum-proof ways, it has been introduced to the world as QCoin!. The rest of the [code along with the website](https://github.com/sujeetamberkar/QHash) is here: 
 
 Before I go down another rabbit-hole, here is how we tried to made it quantum-secure:
 1. Integrating quantum random number generation along with the data being hashed to get the required nonce.
